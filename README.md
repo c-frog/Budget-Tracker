@@ -21,3 +21,5 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Technologies Used
 This application is run through an Express.js server, hosted by Heroku, and a MongoDB/Mongoose connection to store data.
+
+## Deployed App: https://sleepy-taiga-85140.herokuapp.com/
